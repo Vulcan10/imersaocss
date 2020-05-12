@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-stock-4-for-iPhone-X.png);
+    background-size: auto 110vh;
+    frent-family: Arial;
+    height: 110VH;
+  }
+  
+  .menu {
+    background-color: white;
+    
+  }
+  
+  a{
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display:flex;
+    justify-content: space-around;
+  }
+  
+  .site-subtitle,
+  .site-title{
+    text-align: center;
+    
+  }
+  
+
+  
+  
+  
